@@ -1,0 +1,22 @@
+After openting the folder we have installed the below mentiones
+
+npx express-generator
+npm i
+npm i mongodb
+npm i mongoose
+npm i validator
+
+npm i bcryptjs // this is for password encryption
+
+// Start from 55 minutes
+
+//pusning code to git
+
+>>> Create a ".gitIgnore" file 
+>>> in the terminal run the below commands
+    1st >>> "git init" command
+    2nd >>> "git add ." command
+    3rd >>> "git commit -m 'bcryptjs'"
+    4th >>> "git branch -m 'Class-37-Authentication'"
+    5th >>> "git remote add origin https://github.com/chandrulogan/AUTHENTICATION.git"
+    6th >>> "git push -u origin Class-37-Authentication"
